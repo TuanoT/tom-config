@@ -24,14 +24,14 @@
 		"xpos"				"cs-0.5"
 		"ypos"				"cs-0.5"
 		"zpos"				"197"
-		"wide"				"24" // Crosshair2 size
-		"tall"				"24" // Crosshair2 size
+		"wide"				"16" // Crosshair2 size
+		"tall"				"16" // Crosshair2 size
 		"visible"			"1" // Crosshair2 enabled
 		"enabled"			"1" // Crosshair2 enabled
 		"image"				"replay/thumbnails/xhairs/xhair2"
 		"scaleImage"		"1"
 		"drawcolor"			"G_Crosshair2Color"
-		"Alpha"				"0" // Crosshair2 opacity
+		"Alpha"				"" // Crosshair2 opacity
 	}
 	"Crosshair3"
 	{
@@ -40,14 +40,14 @@
 		"xpos"				"cs-0.5"
 		"ypos"				"cs-0.5"
 		"zpos"				"196"
-		"wide"				"24" // Crosshair3 size
-		"tall"				"24" // Crosshair3 size
-		"visible"			"0" // Crosshair3 enabled
-		"enabled"			"0" // Crosshair3 enabled
+		"wide"				"17" // Crosshair3 size
+		"tall"				"17" // Crosshair3 size
+		"visible"			"1" // Crosshair3 enabled
+		"enabled"			"1" // Crosshair3 enabled
 		"image"				"replay/thumbnails/xhairs/xhair3"
 		"scaleImage"		"1"
 		"drawcolor"			"G_Crosshair3Color"
-		"Alpha"				"255" // Crosshair3 opacity
+		"Alpha"				"" // Crosshair3 opacity
 	}
 
 	"Hitmarker"
@@ -744,5 +744,9 @@
 		"fgcolor"		"TanDark"
 	}
 }
+
+
+
+
 
 

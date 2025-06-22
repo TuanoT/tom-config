@@ -10,4 +10,4 @@ Merge `tf` into `Steam\steamapps\common\Team Fortress 2\tf`.
 Or manually add autoexec.cfg if you do not wish to use the custom HUD.
 
 ## Launch options
-`-dxlevel 95 -fullscreen -w 1920 -h 1080 -console -novid`
+`-dxlevel 95 -fullscreen -w 1920 -h 1080 -novid`

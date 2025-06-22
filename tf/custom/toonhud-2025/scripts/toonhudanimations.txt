@@ -13,10 +13,10 @@ event Hitmarker
 	//# Animate Crosshair1 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker1 end
 	
 	 Animate Crosshair2 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker2 start
-	 Animate Crosshair2 Alpha "0" 	Linear 0.0 0.500 	// CrosshairHitmarker2 end
+	 Animate Crosshair2 Alpha "" 	Linear 0.0 0.500 	// CrosshairHitmarker2 end
 	
-	//# Animate Crosshair3 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker3 start
-	//# Animate Crosshair3 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker3 end
+	 Animate Crosshair3 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker3 start
+	 Animate Crosshair3 Alpha "" 	Linear 0.0 0.500 	// CrosshairHitmarker3 end
 	
 }
 
@@ -371,6 +371,9 @@ event HudTournament_ShowTimerDefault
 	SetVisible CountdownLabel 1 0
 	SetVisible CountdownLabelShadow 1 0
 }
+
+
+
 
 
 

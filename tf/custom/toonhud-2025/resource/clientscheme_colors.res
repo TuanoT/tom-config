@@ -70,13 +70,13 @@ Scheme
 		"G_KillfeedRed"				"255 63 63 255" // Killfeed red text
 		"G_KillfeedIcon"			"255 255 255 255" // Killfeed icon color
 		"G_CustomHealthValue"		"120 120 120 255"
-		"G_MainMenuOverlay"			"0 0 0 102" // Main Menu overlay color
+		"G_MainMenuOverlay"			"0 0 0 191" // Main Menu overlay color
 		"G_MainMenuPanel"			"28 23 19 255" // Main Menu panel color
-		"G_MainMenuButton"			"236 220 211 255" // Main Menu button color
+		"G_MainMenuButton"			"255 232 220 255" // Main Menu button color
 		"G_MainMenuButtonHover"		"227 105 30 255" // Main Menu hovered button color
-		"G_MainMenuButtonFg"		"38 30 22 255" // Main Menu button text color
+		"G_MainMenuButtonFg"		"28 23 19 255" // Main Menu button text color
 		"G_MainMenuButtonHoverFg"	"255 255 255 255" // Main Menu hovered button text color
-		"G_MainMenuShader" 			"255 255 255 0" // Main Menu shader color
+		"G_MainMenuShader" 			"28 23 19 0" // Main Menu shader color
 		"G_BackpackItemBg"			"55 50 45 255" // Backpack item bg color
 		"G_LoadoutItemBg"			"52 47 42 255" // Loadout item bg color
 		"G_MenuBg"					"40 34 30 255" // Menu bg color
@@ -103,9 +103,9 @@ Scheme
 		"G_MvmLobbyPanelText"		"220 220 220 255"
 		
 		// Crosshairs
-		"G_Crosshair1Color"		"146 215 47 255" // Crosshair1 color
+		"G_Crosshair1Color"		"255 255 255 255" // Crosshair1 color
 		"G_Crosshair2Color"		"255 50 50 255" // Crosshair2 color
-		"G_Crosshair3Color"		"255 255 255 255" // Crosshair3 color
+		"G_Crosshair3Color"		"255 0 0 255" // Crosshair3 color
 		"G_Hitmarker1Color"		"255 0 0 255" // Hitmarker1 color
 		"G_Hitmarker2Color"		"255 0 0 255" // Hitmarker2 color
 		"G_Hitmarker3Color"		"255 0 0 255" // Hitmarker3 color
