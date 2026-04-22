@@ -7,7 +7,7 @@
 		"fieldName"		"HudPlayerClass"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"20"
+		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
@@ -17,8 +17,10 @@
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"			"0"
-		"ypos"			"r50"
+		"xpos"			"c-292"
+		"ypos"			"r85"
+		"xpos_minmode"	"c-272"
+		"ypos_minmode"	"r185"
 		"zpos"			"2"
 		"wide"			"50"
 		"tall"			"50"
@@ -31,11 +33,13 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"			"PlayerStatusSpyImage"
-		"xpos"				"30"
-		"ypos"				"r40"
+		"xpos"				"c-272"
+		"ypos"				"r94"
+		"xpos_minmode"		"c-252"
+		"ypos_minmode"		"r194"
 		"zpos"				"2"
-		"wide"				"40"
-		"tall"				"40"
+		"wide"				"30"
+		"tall"				"30"
 		"visible"			"1"
 		"enabled"			"1"
 		"image"				"../hud/class_spyred"
@@ -78,7 +82,7 @@
 		"teambg_3_lodef"	"../hud/character_blue_bg_lodef"
 		"Alpha"				"0"
 	}
-	
+
 	"classmodelpanelBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -101,11 +105,11 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"0"
-		"xpos_minmode"	"0"
-		"ypos"			"r200"
-		"ypos_minmode"	"r200"
-		"zpos"			"2"		
+		"xpos"			"c-400" // NHB
+		"xpos_minmode"	"c-380" // MNHB
+		"ypos"			"r235"
+		"ypos_minmode"	"r335"
+		"zpos"			"0"		
 		"wide"			"240"
 		"wide_minmode"	"240"
 		"tall"			"200"
@@ -114,12 +118,10 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"paintbackground"	"1"
-		"bgcolor_override"	"200 0 0 0"
 		
 		"render_texture"	"0"
-		"fov"			"52"
-		"allow_rot"		"1"
+		"fov"				"52"
+		"allow_rot"			"1"
 				
 		"model"
 		{
@@ -150,7 +152,7 @@
 				"angles_y"		"200"
 				"angles_z"		"-10"
 				"origin_x"		"105"
-				"origin_y"		"5"
+				"origin_y"		"0"
 				"origin_z"		"-78"
 			}
 			"Scout"
@@ -160,7 +162,7 @@
 				"angles_y"	"200"
 				"angles_z"	"0"
 				"origin_x"	"825"
-				"origin_y"	"60"
+				"origin_y"	"-3"
 				"origin_z"	"-98"
 			}
 			"Sniper"
@@ -170,7 +172,7 @@
 				"angles_y"	"200"
 				"angles_z"	"0"
 				"origin_x"	"805"
-				"origin_y"	"58"
+				"origin_y"	"-5"
 				"origin_z"	"-108"
 			}
 			"Soldier"
@@ -180,7 +182,7 @@
 				"angles_y"	"190"
 				"angles_z"	"0"
 				"origin_x"	"805"
-				"origin_y"	"63"
+				"origin_y"	"0"
 				"origin_z"	"-108"
 			}
 			"Demoman"
@@ -190,7 +192,7 @@
 				"angles_y"	"200"
 				"angles_z"	"0"
 				"origin_x"	"805"
-				"origin_y"	"63"
+				"origin_y"	"0"
 				"origin_z"	"-108"
 			}
 			"Medic"
@@ -200,7 +202,7 @@
 				"angles_y"	"200"
 				"angles_z"	"0"
 				"origin_x"	"805"
-				"origin_y"	"63"
+				"origin_y"	"0"
 				"origin_z"	"-108"
 			}
 			"Heavy"
@@ -210,7 +212,7 @@
 				"angles_y"	"200"
 				"angles_z"	"0"
 				"origin_x"	"805"
-				"origin_y"	"63"
+				"origin_y"	"0"
 				"origin_z"	"-108"
 			}
 			"Pyro"
@@ -220,7 +222,7 @@
 				"angles_y"	"210"
 				"angles_z"	"0"
 				"origin_x"	"805"
-				"origin_y"	"67"
+				"origin_y"	"4"
 				"origin_z"	"-108"
 			}
 			"Spy"
@@ -230,7 +232,7 @@
 				"angles_y"	"200"
 				"angles_z"	"0"
 				"origin_x"	"805"
-				"origin_y"	"60"
+				"origin_y"	"-3"
 				"origin_z"	"-108"
 			}
 			"Engineer"
@@ -240,7 +242,7 @@
 				"angles_y"	"200"
 				"angles_z"	"0"
 				"origin_x"	"805"
-				"origin_y"	"60"
+				"origin_y"	"-3"
 				"origin_z"	"-100"
 			}
 		}

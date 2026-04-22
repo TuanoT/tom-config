@@ -290,7 +290,7 @@
 		"enabled" 	"1"
 		"xpos"		"c-126"
 		"ypos"			"315"
-		"ypos_minmode"	"340" // CIM
+		"ypos_minmode"	"315" // CIM
 		"wide"	 	"252"
 		"tall"	 	"28"
 		"tall_minmode"	 	"28"
@@ -492,7 +492,7 @@
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "4" // 1 KF
+		"MaxDeathNotices" "5" // 1 KF
 		"IconScale"		"0.35"
 		"LineHeight"	"10" // 3 KF
 		"LineSpacing"	"2" // 4 KF
@@ -1512,8 +1512,6 @@
 		"alpha"					"100"
 	}
 }
-
-
 
 
 

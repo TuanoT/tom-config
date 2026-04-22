@@ -819,32 +819,32 @@ Scheme
 		ScrollBarButtonBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2" // SharpB
+			"backgroundtype" "0" // SharpB
 		}
 
 		ScrollBarButtonDepressedBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2" // SharpB
+			"backgroundtype" "0" // SharpB
 		}
 
 		ButtonBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2" // SharpB
+			"backgroundtype" "0" // SharpB
 		}
 
 		// this is the border used for default buttons (the button that gets pressed when you hit enter)
 		ButtonKeyFocusBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2" // SharpB
+			"backgroundtype" "0" // SharpB
 		}
 
 		ButtonDepressedBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2" // SharpB
+			"backgroundtype" "0" // SharpB
 		}
 		
 		FooterColorBorder
@@ -1417,12 +1417,12 @@ Scheme
 		Econ.Button.Border.Default
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2" // SharpB
+			"backgroundtype" "0" // SharpB
 		}
 		Econ.Button.Border.Armed
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2" // SharpB
+			"backgroundtype" "0" // SharpB
 		}
 
 		LoadoutItemMouseOverBorder

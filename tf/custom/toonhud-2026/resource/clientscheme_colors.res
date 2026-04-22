@@ -7,14 +7,14 @@ Scheme
 	{
 		// ToonHUD colors
 		
-		"G_Highlight"			"242 128 11 255" // Highlight color
+		"G_Highlight"			"227 105 30 255" // Highlight color
 		"G_White"				"255 255 255 255"
 		"G_Black"				"0 0 0 255"
 		"G_Red"					"230 0 0 255"
 		"G_Shadow"				"0 0 0 220" // Shadow color
 		"G_LightShadow"			"0 0 0 110"
-		"G_Heal"				"127 224 74 255" // Heal color
-		"G_Hit"					"235 220 50 255" // Hit color
+		"G_Heal"				"126 230 69 255" // Heal color
+		"G_Hit"					"235 211 69 255" // Hit color
 		"G_Brown"				"49 44 41 255"
 		"G_Yellow"				"235 220 50 255"
 		"G_WhiteShadow"			"255 255 255 50"
@@ -36,20 +36,20 @@ Scheme
 		"G_LowAmmo"				"255 0 0 255" // Low ammo color
 		"G_MetalValue"			"255 255 255 255" // Metal color
 		"G_MetalIcon"			"255 255 255 255" // Metal icon color
-		"G_HeadsValue"			"235 220 53 255" // Heads value color
+		"G_HeadsValue"			"255 229 69 255" // Heads value color
 		"G_HeadsLabel"			"255 255 255 255" // Heads value icon color
-		"G_KillstreakValue"		"255 255 255 255" // Killstreak value color
+		"G_KillstreakValue"		"255 128 50 255" // Killstreak value color
 		"G_KillstreakIcon"		"255 255 255 255" // Killstreak icon color
 		"G_StickyColor"					"255 255 255 255" // Stickybomb color
 		"G_StickyIconColor"				"255 255 255 255" // Stickybomb icon color
 		"G_CustomTargetID" 				"0 0 0 100" // Custom target id bg color
-		"G_CustomBuildingStatusBg" 		"0 0 0 100" // Custom building status bg color
+		"G_CustomBuildingStatusBg" 		"0 0 0 99" // Custom building status bg color
 		"G_TargetHealthValue" 			"255 255 255 255" // Target ID health value color
 		"G_TargetHealthValueShadow" 	"0 0 0 220" // Target ID health value shadow color
-		"G_Killfeed_Base"			"0 0 0 84" // Killfeed Base color
-		"G_Killfeed_Local"			"255 255 255 128" // Killfeed Local color
+		"G_Killfeed_Base"			"0 0 0 120" // Killfeed Base color
+		"G_Killfeed_Local"			"235 235 235 207" // Killfeed Local color
 		"G_CenteredMetalBg"			"50 50 50 120" // Centered metal background color
-		"G_CenteredUberchargeBg"	 "0 0 0 99" // Centered ubercharge meter background color
+		"G_CenteredUberchargeBg"	 "0 0 0 100" // Centered ubercharge meter background color
 		"G_BrownBg"					"46 43 42 220"
 		"G_DestroyBg"				"120 0 0 150"
 		"G_ScoreboardBlue"			"55 73 85 100"
@@ -62,34 +62,34 @@ Scheme
 		"G_TeamButtonRedArmed"		"209 78 78 255"		
 		"G_Footer"					"28 23 19 255" // Menu footer color
 		"G_DimmFooter"				"28 23 19 200" // Dimm Menu footer color
-		"G_FooterText"				"203 186 177 255" // Footer text color
-		"G_DimmFooterText"			"196 178 168 120" // Dimm Footer text color
+		"G_FooterText"				"236 220 211 255" // Footer text color
+		"G_DimmFooterText"			"236 220 211 120" // Dimm Footer text color
 		"G_OuterBorder"				"0 0 0 255" // Outer border color
-		"G_InnerBorder"				"0 0 0 30" // Inner border color
-		"G_KillfeedBlue"			"62 149 255 255" // Killfeed blue text
-		"G_KillfeedRed"				"255 69 69 255" // Killfeed red text
+		"G_InnerBorder"				"0 0 0 64" // Inner border color
+		"G_KillfeedBlue"			"83 155 242 255" // Killfeed blue text
+		"G_KillfeedRed"				"255 63 63 255" // Killfeed red text
 		"G_KillfeedIcon"			"255 255 255 255" // Killfeed icon color
 		"G_CustomHealthValue"		"120 120 120 255"
-		"G_MainMenuOverlay"			"0 0 0 0" // Main Menu overlay color
+		"G_MainMenuOverlay"			"0 0 0 191" // Main Menu overlay color
 		"G_MainMenuPanel"			"28 23 19 255" // Main Menu panel color
-		"G_MainMenuButton"			"232 202 172 255" // Main Menu button color
-		"G_MainMenuButtonHover"		"242 128 11 255" // Main Menu hovered button color
-		"G_MainMenuButtonFg"		"38 30 22 255" // Main Menu button text color
+		"G_MainMenuButton"			"255 232 220 255" // Main Menu button color
+		"G_MainMenuButtonHover"		"227 105 30 255" // Main Menu hovered button color
+		"G_MainMenuButtonFg"		"28 23 19 255" // Main Menu button text color
 		"G_MainMenuButtonHoverFg"	"255 255 255 255" // Main Menu hovered button text color
-		"G_MainMenuShader" 			"0 0 0 0" // Main Menu shader color
+		"G_MainMenuShader" 			"28 23 19 0" // Main Menu shader color
 		"G_BackpackItemBg"			"55 50 45 255" // Backpack item bg color
 		"G_LoadoutItemBg"			"52 47 42 255" // Loadout item bg color
 		"G_MenuBg"					"40 34 30 255" // Menu bg color
-		"G_MenuText"				"220 206 199 255" // Menu text color
+		"G_MenuText"				"255 255 255 255" // Menu text color
 		"G_InputText"				"0 0 0 240" // Input text color
 		"G_DimmInputText"			"0 0 0 100" // Dimm Input text color
-		"G_DimmMenuText"			"220 206 199 120" // Dimm Menu text color
+		"G_DimmMenuText"			"255 255 255 120" // Dimm Menu text color
 		"G_ItemDescriptionPanelBg"	"24 22 20 255" // Item description panel bg
 		"G_ButtonBg"				"96 83 73 255" // Button bg color
 		"G_ButtonText"				"255 255 255 255" // Button text color
-		"G_ButtonHoverBg"			"242 128 11 255" // Button hover bg color
+		"G_ButtonHoverBg"			"227 105 30 255" // Button hover bg color
 		"G_ButtonHoverText"			"255 255 255 255" // Button hover text color
-		"G_ButtonSelectedBg"		"194 98 0 255" // Button selected bg color
+		"G_ButtonSelectedBg"		"181 84 24 255" // Button selected bg color
 		"G_ButtonSelectedText"		"255 255 255 255" // Button selected text color
 		"G_MiniButtonBg"			"50 50 50 255" // Mini button bg color
 		"G_MiniButtonHoverBg"		"10 10 10 255" // Mini button hover bg color
@@ -104,8 +104,8 @@ Scheme
 		
 		// Crosshairs
 		"G_Crosshair1Color"		"255 255 255 255" // Crosshair1 color
-		"G_Crosshair2Color"		"255 69 69 255" // Crosshair2 color
-		"G_Crosshair3Color"		"255 255 255 255" // Crosshair3 color
+		"G_Crosshair2Color"		"255 50 50 255" // Crosshair2 color
+		"G_Crosshair3Color"		"255 0 0 255" // Crosshair3 color
 		"G_Hitmarker1Color"		"255 0 0 255" // Hitmarker1 color
 		"G_Hitmarker2Color"		"255 0 0 255" // Hitmarker2 color
 		"G_Hitmarker3Color"		"255 0 0 255" // Hitmarker3 color
@@ -115,7 +115,7 @@ Scheme
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"		"188 112 0 128"
 		"GoalOrange"		"255 133 0"
-		"TFOrange"			"242 128 11 255" // Highlight color
+		"TFOrange"			"227 105 30 255" // Highlight color
 		
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
@@ -480,11 +480,11 @@ Scheme
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
-		Slider.NobColor				"242 128 11 255" // Highlight color
-		Slider.TextColor			"220 206 199 255" // Menu text color
-		Slider.TrackColor			"220 206 199 255" // Menu text color
-		Slider.DisabledTextColor1	"220 206 199 120" // Dimm Menu text color
-		Slider.DisabledTextColor2	"220 206 199 120" // Dimm Menu text color
+		Slider.NobColor				"227 105 30 255" // Highlight color
+		Slider.TextColor			"255 255 255 255" // Menu text color
+		Slider.TrackColor			"255 255 255 255" // Menu text color
+		Slider.DisabledTextColor1	"255 255 255 120" // Dimm Menu text color
+		Slider.DisabledTextColor2	"255 255 255 120" // Dimm Menu text color
 
 		TextEntry.TextColor			"Gray"
 		TextEntry.BgColor			"Blank"

@@ -2,5 +2,5 @@
 {
 	"$basetexture"	"vgui\replay\thumbnails\gradient"
 	"$vertexalpha" 	"1"
-	"$alpha" 		"1" // Gradient alpha
+	"$alpha" 		"0" // Gradient alpha
 }
